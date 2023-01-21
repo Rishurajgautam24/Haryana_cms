@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.0e39cbf5.css",
-    "main.js": "/static/js/main.ed3e8383.js",
+    "main.css": "/static/css/main.9a2debe1.css",
+    "main.js": "/static/js/main.09e5fe99.js",
     "static/media/police.png": "/static/media/police.3664dc9d9f75438ec7b3.png",
     "static/media/logo1.png": "/static/media/logo1.2e15c0d8cb0375aea0b3.png",
     "index.html": "/index.html",
-    "main.0e39cbf5.css.map": "/static/css/main.0e39cbf5.css.map",
-    "main.ed3e8383.js.map": "/static/js/main.ed3e8383.js.map"
+    "main.9a2debe1.css.map": "/static/css/main.9a2debe1.css.map",
+    "main.09e5fe99.js.map": "/static/js/main.09e5fe99.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e39cbf5.css",
-    "static/js/main.ed3e8383.js"
+    "static/css/main.9a2debe1.css",
+    "static/js/main.09e5fe99.js"
   ]
 }
